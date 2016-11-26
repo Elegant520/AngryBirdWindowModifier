@@ -1,0 +1,15 @@
+﻿已經開始建置於 2011/2/19 下午 02:54:39。
+     1>節點 2 (rebuild 目標) 上的專案 "D:\angrybird\angrybird\angrybird.vcxproj"。
+     1>_PrepareForClean:
+         正在刪除檔案 "Debug\angrybird.lastbuildstate"。
+       InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\angrybird.unsuccessfulbuild"。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\angrybird.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\program files\microsoft visual studio 10.0\vc\atlmfc\include\afx.h(24): fatal error C1189: #error :  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+     1>專案 "D:\angrybird\angrybird\angrybird.vcxproj" (rebuild 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:01.24

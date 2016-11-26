@@ -1,0 +1,16 @@
+product = "Angry Birds"
+publisher = "Rovio"
+name = "Angry Birds"
+width = 320
+height = 320240
+orientation = 0
+datapath = "data"
+imagePath = "images/pc_build"
+fontPath = "fonts/pc_build"
+audioPath = "audio"
+localizationPath = "localization"
+levelPath = "levels"
+scriptPath = "scripts"
+deviceModel = "windows"
+fullscreen = false
+showCursor = false
